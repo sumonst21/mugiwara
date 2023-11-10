@@ -8,7 +8,7 @@
     "start-teste": "babel-node src/teste.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.0",
     "cheerio": "^1.0.0-rc.2",
     "clui": "^0.3.6",
     "cwait": "^1.1.1",
