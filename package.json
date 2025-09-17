@@ -8,12 +8,12 @@
     "start-teste": "babel-node src/teste.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.12.0",
     "cheerio": "^1.0.0-rc.2",
     "clui": "^0.3.6",
     "cwait": "^1.1.1",
-    "moment": "^2.22.2",
-    "qs": "^6.5.2",
+    "moment": "^2.29.4",
+    "qs": "^6.5.3",
     "rxjs": "^6.2.2",
     "rxjs-compat": "^6.2.2"
   },
